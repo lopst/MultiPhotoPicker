@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="array_sort_value">
+        <item>Nombre</item>
+        <item>Tamaño</item>
+        <item>Fecha</item>
+    </array>
+</resources>
