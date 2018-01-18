@@ -478,7 +478,7 @@ public class PickImageActivity extends AppCompatActivity implements  OnClickList
             }
             else
             {
-                Toast.makeText(this, "Please select at lease "+this.limitImageMin+" images", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, getString(R.string.select_at_lease)+" "+this.limitImageMin+" "+getString(R.string.images), Toast.LENGTH_SHORT).show();
             }
         }
     }

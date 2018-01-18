@@ -9,4 +9,5 @@
     <string name="action_sort">Sort</string>
     <string name="limit">Limit</string>
     <string name="images">images</string>
+    <string name="select_at_lease">Please select at lease</string>
 </resources>

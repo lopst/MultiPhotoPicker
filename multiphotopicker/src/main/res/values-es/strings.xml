@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multi Photo Picker</string>
+    <string name="pick_image_from_gallery">ESCOJA LA IMAGEN DE LA GALERÍA</string>
+    <string name="text_images">%1$d Imágenes</string>
+    <string name="text_button_done">Continuar</string>
+    <string name="text_title_activity_album">Seleccione las fotos</string>
+    <string name="text_title_dialog_sort_by_album">Ordenar album por</string>
+    <string name="text_title_dialog_sort_by_photo">Ordenar foto por</string>
+    <string name="action_sort">Ordenar</string>
+    <string name="limit">Límite</string>
+    <string name="images">imágenes</string>
+    <string name="select_at_lease">Seleccione al menos</string>
+</resources>
