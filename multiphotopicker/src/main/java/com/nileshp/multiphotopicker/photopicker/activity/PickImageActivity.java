@@ -688,7 +688,7 @@ public class PickImageActivity extends AppCompatActivity implements  OnClickList
         if (this.listItemSelect.size() < this.limitImageMax) {
             addItemSelect(item);
         } else {
-            Toast.makeText(this, "Limit " + this.limitImageMax + " images", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, getString(R.string.limit)+ " " + this.limitImageMax + " " +getString(R.string.images), Toast.LENGTH_SHORT).show();
         }
     }
 
